@@ -38,7 +38,15 @@ Board.py -> Class where the logic of the main game is written also it serves as 
 
 assets/characters.pyrex -> Where the animations are made
 
-## How to execute it?
+## How to install it? 
+
+With the requirements which brings with him:
+
+```bash 
+pip install -r "requirements.txt"
+```
+
+## How to play it?
 
 The main file or the file to be executed is **Board.py**. To run the game just type:
 
@@ -46,7 +54,23 @@ The main file or the file to be executed is **Board.py**. To run the game just t
 python3 Board.py
 ```
 
+## Which are the controls?
 
+move peach -> :arrow_left:  :arrow_up: :arrow_right:
+
+Jump -> **Space Bar**
+
+## Wanna see??
+
+​				**Dying**
+
+![](./Images/3.gif)
+
+​			*Take care when dodging the barrels, if you are hit by one, your hair will turn black, as consequence you will be granted immunity for 5 seconds. :)*
+
+​				**Wining**
+
+![](./Images/4.gif)
 
 ## What can be improved?
 

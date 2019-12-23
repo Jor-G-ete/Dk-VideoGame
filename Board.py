@@ -17,7 +17,7 @@ class Board:
 		pyxel.init(constants.ventana_x, constants.ventana_y, caption='Peach dk game')
 
 		# Load varibles
-		pyxel.load('assets/characters.pyxres')
+		pyxel.load('./assets/characters.pyxres')
 		self._score = 0
 		self._Barriles = []
 		self._Peach = Peach() # el objeto mario funcional
