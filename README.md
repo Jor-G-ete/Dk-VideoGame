@@ -2,8 +2,11 @@
 
 This is the first version of a video game made by the python library pyxel: https://github.com/kitao/pyxel.
 
-This time is Mario who is being saved by Peach.
+This time is Mario who is being saved by Peach.  
+
+
 ![](./Images/1.gif)
+
 
 The logic of the game is basic, barrels going down either by the floors or the stairs( which are generated randomly).
 
